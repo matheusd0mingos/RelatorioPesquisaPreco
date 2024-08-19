@@ -9,12 +9,21 @@ Funcionalidade
     Preenchimento da Tabela: Preenche uma tabela no documento com informações sobre equipamentos e preços de diferentes empresas, calculando a mediana dos preços.
     Salvar e Compartilhar: Salva e fecha o documento criado e atualiza a planilha com o link para o novo documento.
 
+## Aba start 
+![image](https://github.com/user-attachments/assets/53cbd8d3-0e57-4575-8e14-42a81ce3b97e)
+
+## Aba pesquisa
+![image](https://github.com/user-attachments/assets/7d3e450d-8296-4b73-b713-866bf0e10a9d)
 # Como Usar
 
     Configuração:
         Abra o Google Sheets onde você deseja usar o script.
         Crie uma aba chamada "Pesquisa" e insira seus dados conforme as colunas esperadas.
         Crie uma aba chamada "Start" e insira as informações necessárias nas células B5 a B10.
+
+
+
+
 
     Script:
         Abra o Editor de Scripts do Google Apps (Extensões > Apps Script).
